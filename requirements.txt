@@ -1,0 +1,30 @@
+wheel
+
+# Jupiter notebook
+ipykernel
+ipywidgets
+
+# utils
+requests
+convertdate
+
+numpy
+pandas
+pandas-profiling
+scipy
+statsmodels
+scikit-learn
+sktime
+tslearn
+prophet
+neuralprophet
+darts
+
+# Excel
+xlrd
+
+# Visualize
+japanize_matplotlib
+japanmap
+plotly
+
