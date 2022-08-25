@@ -8,6 +8,8 @@ ipywidgets
 python-dotenv
 requests
 convertdate
+pillow
+imageio
 opencv-contrib-python
 
 numpy
