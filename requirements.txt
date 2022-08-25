@@ -5,8 +5,10 @@ ipykernel
 ipywidgets
 
 # utils
+python-dotenv
 requests
 convertdate
+opencv-contrib-python
 
 numpy
 pandas
@@ -14,6 +16,7 @@ pandas-profiling
 scipy
 statsmodels
 scikit-learn
+scikit-image
 sktime
 tslearn
 prophet
